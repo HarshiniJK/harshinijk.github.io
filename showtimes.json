@@ -1,9 +1,11 @@
 {
-    "showState": "open",
+    "showState": "scheduled",
     "dailyTimeStart": "00:00",
-    "dailyTimeStop": "07:15",
+    "dailyTimeStop": "00:00",
     "specificDays": [
-        ["04 Jan 2021 00:00:00 GMT", "04 Jul 2021 07:14:00 GMT"],
-        ["01 Jan 2021 00:00:00 GMT+0530", "04 Jul 2021 01:29:00 GMT+0530"]
+        ["15 Jul 2021 08:45:00 GMT-0400", "15 Jul 2021 09:15:00 GMT-0400"],
+        ["17 Jul 2021 14:00:00 GMT-0400", "17 Jul 2021 16:15:00 GMT-0400"],
+        ["18 Jul 2021 17:15:00 GMT-0400", "18 Jul 2021 18:30:00 GMT-0400"],
+        ["24 Jul 2021 16:30:00 GMT-0400", "24 Jul 2021 18:45:00 GMT-0400"]
     ]
 }
