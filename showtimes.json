@@ -1,9 +1,9 @@
 {
-    "showState": "scheduled",
+    "showState": "open",
     "dailyTimeStart": "00:00",
     "dailyTimeStop": "00:00",
     "specificDays": [
-        ["24 Feb 2022 10:00:00 GMT-0400", "30 Jun 2022 22:00:00 GMT-0400"],
+        ["24 Feb 2022 10:00:00 GMT-0400", "30 Jun 2022 22:00:00 GMT-0400"]
     
     ]
 }
